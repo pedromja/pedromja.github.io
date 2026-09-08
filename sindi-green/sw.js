@@ -1,6 +1,6 @@
 /* Sindi GrEeN — cache mínimo. Não interfere com /__grok. */
 const BASE = new URL("./", self.location).pathname.replace(/\/?$/, "/");
-const CACHE = "sindi-green-destino-v2";
+const CACHE = "sindi-green-destino-v4";
 const PRECACHE = [BASE, new URL("destino", self.location).pathname, new URL("favicon.svg", self.location).pathname];
 
 self.addEventListener("install", (event) => {
@@ -39,4 +39,22 @@ self.addEventListener("fetch", (event) => {
         .catch(async () => (await caches.match(req)) || (await caches.match(BASE))),
     );
   }
+});
+
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+  const raw = (event.notification.data && event.notification.data.url) || BASE;
+  const href = new URL(raw, self.location.origin).href;
+  event.waitUntil(
+    self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((clientList) => {
+      for (const client of clientList) {
+        if (new URL(client.url).origin === self.location.origin && "focus" in client) {
+          client.focus();
+          client.postMessage({ type: "sindi-open", url: href });
+          return;
+        }
+      }
+      if (self.clients.openWindow) return self.clients.openWindow(href);
+    }),
+  );
 });

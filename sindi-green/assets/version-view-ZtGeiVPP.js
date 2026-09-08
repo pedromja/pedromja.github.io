@@ -1,0 +1,1 @@
+import{a as e}from"./index-Bn9Fqbsa.js";function t({origin:t,v101:n,v102:r,v11:i,v12:a,v121:o,current:s}){let c=e(e=>e.version);return c===`1.00`?t:c===`1.01`&&n?n:c===`1.02`&&r?r:c===`1.1`&&i?i:c===`1.2`&&a?a:c===`1.21`&&o?o:s}export{t};
