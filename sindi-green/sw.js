@@ -1,5 +1,5 @@
 /* Sindi GrEeN — cache mínimo. Não interfere com /__grok. */
-const CACHE = "sindi-green-destino-v5";
+const CACHE = "sindi-green-destino-v6";
 const PRECACHE = [new URL("favicon.svg", self.location).pathname];
 
 self.addEventListener("install", (event) => {
