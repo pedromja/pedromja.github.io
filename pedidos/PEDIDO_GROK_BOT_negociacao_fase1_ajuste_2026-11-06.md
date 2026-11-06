@@ -27,7 +27,7 @@ O 56750V (Braunschweig) está no Finder como Porsche Center, **sem o selo Approv
 > 2. Verkaufen Sie an Privatkunden aus Portugal? Unterstützen Sie bei der Ausfuhr (Ausfuhrkennzeichen) oder können Sie einen Transport nach Portugal vermitteln? Welche Unterlagen erhalte ich (Zulassungsbescheinigung Teil I und II, COC)?
 > 3. Können Sie mir die FIN, das Modelljahr bzw. die PCM-Version sowie, falls vorhanden, ein Batteriezertifikat (SoH) nennen? Ist das Fahrzeug unfallfrei, und wurden alle Rückrufe/Kampagnen durchgeführt?
 > 4. Bis wann läuft die Porsche Approved Garantie?
-> 5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Verlängerung der Approved Garantie, Winterräder, Service, Ausfuhrkennzeichen)?
+> 5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Verlängerung der Approved Garantie, Service, Ausfuhrkennzeichen)?
 > 6. Wäre ein verbindliches schriftliches Angebot mit Gültigkeitsdatum vor meiner Anreise möglich?
 >
 > Vielen Dank im Voraus und freundliche Grüße
@@ -46,7 +46,7 @@ O 56750V (Braunschweig) está no Finder como Porsche Center, **sem o selo Approv
 > 2. Do you sell to private customers from Portugal? Can you help with export plates (Ausfuhrkennzeichen) or arrange transport to Portugal? Which documents would I receive (registration certificate parts I and II, COC)?
 > 3. Could you tell me the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls/campaigns been carried out?
 > 4. Until when does the Porsche Approved warranty run?
-> 5. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, winter wheels, service, export plates)?
+> 5. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, service, export plates)?
 > 6. Would a binding written offer with a validity date be possible before my trip?
 >
 > Many thanks in advance and kind regards,

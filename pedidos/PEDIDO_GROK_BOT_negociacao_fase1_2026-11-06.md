@@ -12,7 +12,7 @@ O Pedro e o Claude Code leram a pesquisa (`pesquisa_negociacao_2026-11-06.md`). 
    - se faturam sem IVA alemão;
    - se pedem um **depósito do IVA** (Kaution) até receberem a prova de chegada (Gelangensbestätigung ou matrícula PT);
    - em quanto tempo o devolvem.
-3. **Desconto ou extras.** Não pedir uma percentagem. Pedir o melhor preço final **ou** o que podem incluir: prolongar a Approved, rodas de inverno, revisão, matrícula de exportação.
+3. **Desconto ou extras.** Não pedir uma percentagem. Pedir o melhor preço final **ou** o que podem incluir: prolongar a Approved, revisão, matrícula de exportação.
 4. **Proposta escrita com prazo.** Pedir um "verbindliches Angebot" com o preço, o que inclui e até quando é válido.
 5. **Não dizer o orçamento.**
 6. **Expectativa (só para o Grok, não escrever na mensagem):** o habitual nos PZ é cerca de 1.000 € ou mais 1 ano de Approved. Se oferecerem mais do que isso, é sinal de que o stand está flexível.
@@ -47,7 +47,7 @@ O Grok adapta-o a cada carro e mostra a versão final ao Pedro. A pergunta 5 só
 > 3. Können Sie mir die FIN, das Modelljahr bzw. die PCM-Version sowie, falls vorhanden, ein Batteriezertifikat (SoH) nennen? Ist das Fahrzeug unfallfrei, und wurden alle Rückrufe/Kampagnen durchgeführt?
 > 4. Bis wann läuft die Porsche Approved Garantie?
 > 5. *(nur bei Neufahrzeug im Sinne des UStG)* Da das Fahrzeug bei Übergabe als neues Fahrzeug gilt, würde ich die Mehrwertsteuer in Portugal entrichten. Stellen Sie die Rechnung ohne deutsche MwSt. aus, und verlangen Sie bis zum Nachweis der Verbringung eine Kaution in Höhe der MwSt.? Wie schnell wird sie erstattet?
-> 6. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Verlängerung der Approved Garantie, Winterräder, Service, Ausfuhrkennzeichen)?
+> 6. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Verlängerung der Approved Garantie, Service, Ausfuhrkennzeichen)?
 > 7. Wäre ein verbindliches schriftliches Angebot mit Gültigkeitsdatum vor meiner Anreise möglich?
 >
 > Vielen Dank im Voraus und freundliche Grüße

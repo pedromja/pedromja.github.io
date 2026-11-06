@@ -39,7 +39,7 @@ Se uma fonte tiver anti-bot ou pedir login, marcar `sem_leitura` e passar à seg
 **Perguntas a responder** (com fonte e data de cada afirmação):
 1. **Margem de desconto.** Quanto descem normalmente os Porsche Zentren em usados, Approved e "Junge Gebrauchte"? E os vendedores independentes? O que muda em novembro e dezembro, com os objetivos de fim de ano (Jahresendgeschäft)?
 2. **Contrapartidas em vez de desconto:**
-   - rodas de inverno;
+   - (rodas de inverno: NÃO pedir — não fazem sentido em Portugal, decisão do Pedro a 06/11);
    - prolongar a Approved;
    - cabo ou carregador;
    - Überführung ou Zulassung incluídas;
@@ -113,7 +113,7 @@ Ficam para o fim, com o guião já testado.
 2. Se vendem a um particular de Portugal e como tratam a matrícula de transporte e os documentos.
 3. O VIN, a versão do PCM e o ano-modelo, o certificado de SoH da bateria, se o carro tem acidentes ("unfallfrei?"), o histórico de manutenção e as campanhas ou recalls feitos.
 4. A garantia Approved: até quando vale e se vale em Portugal.
-5. O **melhor preço final** para um negócio em dezembro, ou o que podem incluir: rodas de inverno, prolongar a Approved, Überführung.
+5. O **melhor preço final** para um negócio em dezembro, ou o que podem incluir: prolongar a Approved, Überführung.
 6. Se podem enviar uma **proposta por escrito** (verbindliches Angebot) antes da viagem.
 
 **Rascunho base** (o Grok melhora-o com o que a pesquisa disser e mostra a versão final ao Pedro):
@@ -127,7 +127,7 @@ Ficam para o fim, com o guião já testado.
 > 2. Verkaufen Sie an Privatkunden aus Portugal, und wie läuft die Überführung (Kurzzeit-/Überführungskennzeichen, Unterlagen)?
 > 3. Könnten Sie mir die FIN, die PCM-Version/das Modelljahr sowie, falls vorhanden, ein Batterie-Zertifikat (SoH) nennen? Ist das Fahrzeug unfallfrei, und wurden alle Rückrufe/Kampagnen durchgeführt?
 > 4. Bis wann läuft die Porsche Approved Garantie, und gilt sie auch in Portugal?
-> 5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen (z. B. Winterräder, Approved-Verlängerung, Überführung) könnten Sie einschließen?
+> 5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen (z. B. Approved-Verlängerung, Überführung) könnten Sie einschließen?
 > 6. Wäre ein verbindliches schriftliches Angebot vor meiner Anreise möglich?
 >
 > Vielen Dank und freundliche Grüße
