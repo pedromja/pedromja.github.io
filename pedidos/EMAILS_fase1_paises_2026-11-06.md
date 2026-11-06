@@ -2,6 +2,8 @@
 
 Cada email vai na língua do país, com a nota de que foi escrito com o Google Tradutor e com o mesmo texto em inglês por baixo. A Áustria fica em alemão, como os emails para a Alemanha.
 
+**Sem rodas de inverno nos extras (não fazem sentido em Portugal).**
+
 **Antes de enviar cada email:**
 - confirmar na ficha que o carro continua **ativo**;
 - confirmar que a data de disponibilidade não passa de 10/12/2026.
@@ -36,7 +38,7 @@ Vooraf heb ik de volgende vragen:
 2. Verkoopt u aan particulieren uit Portugal? Helpt u bij de export (exportkenteken) of kunt u transport naar Portugal regelen? Welke documenten ontvang ik (kentekenbewijs/registratiedocumenten, COC)?
 3. Kunt u mij de exacte datum van eerste toelating, de huidige kilometerstand, het VIN, het modeljaar / de PCM-versie en, indien beschikbaar, een batterijcertificaat (SoH) geven? Is de auto schadevrij, en zijn alle terugroepacties/campagnes uitgevoerd?
 4. Welke garantie heeft de auto (bijv. Porsche Approved), en tot wanneer loopt deze?
-5. Wat zou uw beste eindprijs zijn bij een koop in december, of welke extra's zou u kunnen meenemen (bijv. garantieverlenging, winterwielen, onderhoudsbeurt, exportkenteken)?
+5. Wat zou uw beste eindprijs zijn bij een koop in december, of welke extra's zou u kunnen meenemen (bijv. garantieverlenging, onderhoudsbeurt, exportkenteken)?
 6. Is een bindende schriftelijke offerte met geldigheidsdatum mogelijk vóór mijn komst?
 
 Alvast hartelijk dank en met vriendelijke groet,
@@ -55,7 +57,7 @@ I have a few questions in advance:
 2. Do you sell to private customers from Portugal? Can you help with export (export plates) or arrange transport to Portugal? Which documents would I receive (registration documents, COC)?
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Which warranty does the car have (e.g. Porsche Approved), and until when does it run?
-5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, winter wheels, service, export plates)?
+5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, service, export plates)?
 6. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -80,7 +82,7 @@ J'aurais quelques questions au préalable :
 2. Vendez-vous à des particuliers résidant au Portugal ? Pouvez-vous aider pour l'exportation (plaques d'exportation / de transit) ou organiser un transport vers le Portugal ? Quels documents recevrais-je (certificat d'immatriculation, COC) ?
 3. Pourriez-vous m'indiquer la date exacte de première immatriculation, le kilométrage actuel, le numéro VIN, l'année-modèle / la version du PCM et, si disponible, un certificat d'état de la batterie (SoH) ? Le véhicule est-il sans accident, et toutes les campagnes de rappel ont-elles été effectuées ?
 4. Quelle garantie a le véhicule (par ex. Porsche Approved), et jusqu'à quand est-elle valable ?
-5. Quel serait votre meilleur prix final pour une conclusion en décembre, ou quelles prestations pourriez-vous inclure (par ex. extension de garantie, roues hiver, entretien, plaques d'exportation) ?
+5. Quel serait votre meilleur prix final pour une conclusion en décembre, ou quelles prestations pourriez-vous inclure (par ex. extension de garantie, entretien, plaques d'exportation) ?
 6. Serait-il possible de recevoir une offre écrite ferme, avec une date de validité, avant mon déplacement ?
 
 Avec mes remerciements anticipés et mes meilleures salutations,
@@ -99,7 +101,7 @@ I have a few questions in advance:
 2. Do you sell to private customers from Portugal? Can you help with export (export/transit plates) or arrange transport to Portugal? Which documents would I receive (registration certificate, COC)?
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Which warranty does the car have (e.g. Porsche Approved), and until when does it run?
-5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, winter wheels, service, export plates)?
+5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, service, export plates)?
 6. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -124,7 +126,7 @@ J'aurais quelques questions au préalable :
 2. Vendez-vous à des particuliers résidant au Portugal ? Pouvez-vous aider pour l'exportation (immatriculation provisoire WW / plaques d'exportation) ou organiser un transport vers le Portugal ? Quels documents recevrais-je (certificat d'immatriculation barré, certificat de cession, COC) ?
 3. Pourriez-vous m'indiquer la date exacte de première immatriculation, le kilométrage actuel, le numéro VIN, l'année-modèle / la version du PCM et, si disponible, un certificat d'état de la batterie (SoH) ? Le véhicule est-il sans accident, et toutes les campagnes de rappel ont-elles été effectuées ?
 4. Quelle garantie a le véhicule (par ex. Porsche Approved), et jusqu'à quand est-elle valable ?
-5. Quel serait votre meilleur prix final pour une conclusion en décembre, ou quelles prestations pourriez-vous inclure (par ex. extension de garantie, roues hiver, entretien, plaques d'exportation) ?
+5. Quel serait votre meilleur prix final pour une conclusion en décembre, ou quelles prestations pourriez-vous inclure (par ex. extension de garantie, entretien, plaques d'exportation) ?
 6. Serait-il possible de recevoir une offre écrite ferme, avec une date de validité, avant mon déplacement ?
 
 Avec mes remerciements anticipés et mes meilleures salutations,
@@ -143,7 +145,7 @@ I have a few questions in advance:
 2. Do you sell to private customers from Portugal? Can you help with export (temporary WW / export registration) or arrange transport to Portugal? Which documents would I receive (cancelled registration certificate, certificate of sale, COC)?
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Which warranty does the car have (e.g. Porsche Approved), and until when does it run?
-5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, winter wheels, service, export plates)?
+5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, service, export plates)?
 6. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -171,7 +173,7 @@ Avrei alcune domande preliminari:
 3. Potreste indicarmi la data esatta di prima immatricolazione, il chilometraggio attuale, il numero di telaio (VIN), l'anno modello / la versione del PCM e, se disponibile, un certificato dello stato della batteria (SoH)? L'auto è priva di incidenti, e sono state eseguite tutte le campagne di richiamo?
 4. Fino a quando è valida la garanzia Porsche Approved?
 5. Alla consegna entro il 10 dicembre 2026 l'auto avrebbe meno di 6.000 km e sarebbe quindi considerata un mezzo di trasporto nuovo ai fini IVA; pagherei l'IVA in Portogallo. Potreste fare in modo che il chilometraggio resti sotto i 6.000 km fino alla consegna? Emettereste la fattura senza IVA italiana (cessione intracomunitaria di mezzo di trasporto nuovo)? Richiedete un deposito pari all'IVA fino alla prova dell'arrivo in Portogallo, e in quanto tempo viene restituito?
-6. Quale sarebbe il Vostro miglior prezzo finale per una conclusione a dicembre, oppure quali servizi potreste includere (ad es. estensione della garanzia Approved, ruote invernali, tagliando, targa per l'esportazione)?
+6. Quale sarebbe il Vostro miglior prezzo finale per una conclusione a dicembre, oppure quali servizi potreste includere (ad es. estensione della garanzia Approved, tagliando, targa per l'esportazione)?
 7. Sarebbe possibile ricevere un'offerta scritta vincolante, con data di validità, prima del mio viaggio?
 
 Ringraziando anticipatamente, porgo cordiali saluti.
@@ -191,7 +193,7 @@ I have a few questions in advance:
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Until when does the Porsche Approved warranty run?
 5. With handover by 10 December 2026 the car would have less than 6,000 km and therefore count as a new means of transport for VAT purposes; I would pay VAT in Portugal. Could you make sure the mileage stays below 6,000 km until handover? Would you invoice without Italian VAT (intra-community supply of a new means of transport)? Do you require a deposit equal to the VAT until proof of arrival in Portugal, and how quickly is it refunded?
-6. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, winter wheels, service, export plates)?
+6. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, service, export plates)?
 7. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -216,7 +218,7 @@ Vorab hätte ich folgende Fragen:
 2. Verkaufen Sie an Privatkunden aus Portugal? Unterstützen Sie bei der Ausfuhr (Überstellungs- bzw. Exportkennzeichen) oder können Sie einen Transport nach Portugal vermitteln? Welche Unterlagen erhalte ich (Zulassungsschein, Typenschein/COC)?
 3. Können Sie mir das genaue Datum der Erstzulassung, den aktuellen Kilometerstand, die FIN, das Modelljahr bzw. die PCM-Version sowie, falls vorhanden, ein Batteriezertifikat (SoH) nennen? Ist das Fahrzeug unfallfrei, und wurden alle Rückrufe/Kampagnen durchgeführt?
 4. Welche Garantie hat das Fahrzeug (z. B. Porsche Approved), und bis wann läuft sie?
-5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Garantieverlängerung, Winterräder, Service, Exportkennzeichen)?
+5. Was wäre Ihr bester Endpreis bei einem Abschluss im Dezember, bzw. welche Leistungen könnten Sie einschließen (z. B. Garantieverlängerung, Service, Exportkennzeichen)?
 6. Wäre ein verbindliches schriftliches Angebot mit Gültigkeitsdatum vor meiner Anreise möglich?
 
 Vielen Dank im Voraus und freundliche Grüße
@@ -235,7 +237,7 @@ I have a few questions in advance:
 2. Do you sell to private customers from Portugal? Can you help with export (transfer/export plates) or arrange transport to Portugal? Which documents would I receive (registration certificate, type certificate/COC)?
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Which warranty does the car have (e.g. Porsche Approved), and until when does it run?
-5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, winter wheels, service, export plates)?
+5. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, service, export plates)?
 6. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -260,7 +262,7 @@ Tendría algunas preguntas previas:
 2. ¿Venden a particulares residentes en Portugal? ¿Pueden ayudar con la exportación (matrícula de exportación / baja por exportación) u organizar un transporte a Portugal? ¿Qué documentos recibiría (permiso de circulación, ficha técnica, COC)?
 3. ¿Podrían indicarme la fecha exacta de primera matriculación, el kilometraje actual, el número de bastidor (VIN), el año modelo / la versión del PCM y, si lo hay, un certificado del estado de la batería (SoH)? ¿El vehículo está libre de accidentes, y se han realizado todas las campañas de revisión/llamadas a revisión?
 4. ¿Hasta cuándo es válida la garantía Porsche Approved?
-5. ¿Cuál sería su mejor precio final para cerrar la operación en diciembre, o qué servicios podrían incluir (por ejemplo, ampliación de la garantía Approved, ruedas de invierno, mantenimiento, matrícula de exportación)?
+5. ¿Cuál sería su mejor precio final para cerrar la operación en diciembre, o qué servicios podrían incluir (por ejemplo, ampliación de la garantía Approved, mantenimiento, matrícula de exportación)?
 6. ¿Sería posible recibir una oferta escrita vinculante, con fecha de validez, antes de mi viaje?
 
 Muchas gracias de antemano y un cordial saludo,
@@ -279,7 +281,7 @@ I have a few questions in advance:
 2. Do you sell to private customers from Portugal? Can you help with export (export registration / export de-registration) or arrange transport to Portugal? Which documents would I receive (registration certificate, technical data sheet, COC)?
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Until when does the Porsche Approved warranty run?
-5. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, winter wheels, service, export plates)?
+5. What would be your best final price for a deal in December, or which extras could you include (e.g. Approved warranty extension, service, export plates)?
 6. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
@@ -307,7 +309,7 @@ Mam kilka wstępnych pytań:
 3. Czy mogą Państwo podać dokładną datę pierwszej rejestracji, aktualny przebieg, numer VIN, rok modelowy / wersję PCM oraz, jeśli jest dostępny, certyfikat stanu baterii (SoH)? Czy samochód jest bezwypadkowy i czy wykonano wszystkie akcje serwisowe/przywoławcze?
 4. Jaką gwarancję ma samochód (np. Porsche Approved) i do kiedy jest ważna?
 5. Przy wydaniu do 10 grudnia 2026 r. samochód będzie miał mniej niż 6000 km, więc dla celów VAT będzie traktowany jako nowy środek transportu; VAT zapłacę w Portugalii. Czy mogą Państwo zadbać, aby przebieg do dnia wydania pozostał poniżej 6000 km? Czy wystawią Państwo fakturę bez polskiego VAT (wewnątrzwspólnotowa dostawa nowego środka transportu)? Czy wymagają Państwo kaucji w wysokości VAT do czasu potwierdzenia dostarczenia do Portugalii i jak szybko jest ona zwracana?
-6. Jaka byłaby Państwa najlepsza cena końcowa przy zawarciu transakcji w grudniu lub jakie usługi mogliby Państwo dodać (np. przedłużenie gwarancji, koła zimowe, serwis, tablice wywozowe)?
+6. Jaka byłaby Państwa najlepsza cena końcowa przy zawarciu transakcji w grudniu lub jakie usługi mogliby Państwo dodać (np. przedłużenie gwarancji, serwis, tablice wywozowe)?
 7. Czy byłaby możliwa wiążąca pisemna oferta z datą ważności przed moim przyjazdem?
 
 Z góry dziękuję i pozdrawiam serdecznie,
@@ -327,7 +329,7 @@ I have a few questions in advance:
 3. Could you tell me the exact date of first registration, the current mileage, the VIN, the model year / PCM version and, if available, a battery health certificate (SoH)? Is the car accident-free, and have all recalls and service campaigns been carried out?
 4. Which warranty does the car have (e.g. Porsche Approved), and until when does it run?
 5. With handover by 10 December 2026 the car will have less than 6,000 km and will therefore count as a new means of transport for VAT purposes; I would pay VAT in Portugal. Could you make sure the mileage stays below 6,000 km until handover? Would you invoice without Polish VAT (intra-community supply of a new means of transport)? Do you require a deposit equal to the VAT until proof of delivery to Portugal, and how quickly is it refunded?
-6. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, winter wheels, service, export plates)?
+6. What would be your best final price for a deal in December, or which extras could you include (e.g. warranty extension, service, export plates)?
 7. Would a binding written offer with a validity date be possible before my trip?
 
 Many thanks in advance and kind regards,
