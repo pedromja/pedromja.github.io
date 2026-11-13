@@ -3,17 +3,16 @@
 O Pedro pediu para ler este artigo e ver que mercados podemos estar a desvalorizar:
 https://impostosobreveiculos.info/importacao/importar-um-automovel-electrico-para-portugal/
 
-A rede do Claude Code não chega a esse site, por isso o primeiro passo é teu. Regras de sempre: só leitura pública, sem login, sem contornar anti-bot (Bilbasen, mobile.de e afins continuam fora), sem contactar vendedores, sem dados pessoais, sem veredictos.
+Regras de sempre: só leitura pública, sem login, sem contornar anti-bot (Bilbasen, mobile.de e afins continuam fora), sem contactar vendedores, sem dados pessoais, sem veredictos.
 
-## 1. Resumo fiel do artigo
-Num `LEIA-ME`, citar com os números exatos o que o artigo diz sobre:
-- ISV dos elétricos;
-- IVA: carro novo ou usado (6 meses / 6.000 km), compra na UE ou fora dela;
-- direitos aduaneiros fora da UE e prova de origem;
-- documentos (COC, homologação, inspeção B, DAV);
-- prazos e custos.
+## 1. O que o artigo diz (lido pelo Claude Code a 13/11)
+- Um elétrico comprado na UE não paga ISV nem IUC. Também não paga IVA em Portugal se for **usado**, isto é, se tiver mais de 6 meses **e** mais de 6.000 km. O site já aplica esta regra.
+- Fora da UE paga-se o IVA português de 23 % à entrada, seja o carro novo ou usado, sobre o preço mais o transporte e os direitos aduaneiros.
+- Os direitos aduaneiros são de 10 %, mas a Suíça e a Noruega pagam **0 %** num carro fabricado na UE, com certificado ou declaração de origem. Um Porsche alemão cabe aqui.
+- O IVA suíço pode ser descontado na exportação. A Noruega quase não cobra IVA nos elétricos, por isso o preço sobe mais com o IVA português.
+- O transporte até Portugal custa **500–750 €** a partir de Espanha, França e Itália, e **750–1.500 €** a partir da Alemanha, Bélgica, Países Baixos e Dinamarca. A legalização custa cerca de 200 €.
 
-Indicar a data do artigo e o que não for claro.
+O site usa hoje 1.300 € de importação para qualquer país da UE. Os países próximos ficam um pouco penalizados (cerca de 500–700 €) e os distantes ficam com o custo subestimado.
 
 ## 2. Mercados a investigar
 O site já cobre a UE continental, a Suíça e a Noruega. Hoje, todos os anúncios suíços e noruegueses dão Caro, porque fora da UE se paga o IVA português (23 %) à entrada, mesmo num carro usado. As hipóteses abaixo são do Claude Code e **têm de ser confirmadas**: quero factos e fontes, não conclusões.
@@ -29,7 +28,10 @@ O site já cobre a UE continental, a Suíça e a Noruega. Hoje, todos os anúnci
 
 Ficam fora, pela regra do volante à esquerda: Reino Unido, Irlanda, Malta e Chipre.
 
-## 3. Entrega
+## 3. Custo de transporte por origem
+Para afinar o custo de importação por país, recolher **3 cotações públicas** (sites de transporte de automóveis em camião, sem pedir orçamento com dados do Pedro) para levar um carro até Lisboa a partir de: Madrid, Barcelona, Lyon, Milão, Munique, Hamburgo, Bruxelas, Viena, Varsóvia, Bratislava, Zagreb, Estocolmo e Zurique. Indicar se o camião é aberto ou fechado, o prazo e o seguro.
+
+## 4. Entrega
 Num zip:
 - `mercados_importacao_<data>.md`, com o resumo do artigo e, por mercado, o regime fiscal à saída e à chegada, os custos e as fontes (links);
 - `anuncios_mercados_novos_<data>.json`, com os Taycan J1.2 encontrados nesses mercados, no formato `carros` com `registo_v7`, e com cidade e país corretos (Canárias e Andorra à parte).
