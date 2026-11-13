@@ -4,10 +4,10 @@ O Pedro quer alargar a procura a carros com **Porsche Active Ride** (código de 
 
 ## O que procurar
 - Taycan J1.2, 1.ª matrícula ≥ 03/2024, só stands (sem particulares), sem acidente.
-- **Versões:** 4, 4S, GTS, Turbo e Turbo S. O Turbo GT fica de fora.
-- **Carroçarias:** berlina primeiro, depois Sport Turismo e Cross Turismo.
-- **Preço:** até **135.000 €** de anúncio.
-- **Prioridade:** berlinas 4S e GTS com InnoDrive (P4S) e 4+1 (5KA).
+- **Atualização do Pedro (13/11): a única exigência é ter 5 lugares (4+1, 5KA).** InnoDrive e outros opcionais deixam de ser obrigatórios, mas devem ser indicados.
+- **Versões:** 4, 4S, GTS, Turbo e Turbo S, todas. O Turbo GT fica de fora.
+- **Carroçarias:** berlina, Sport Turismo e Cross Turismo, todas.
+- **Preço:** sem limite rígido. Prioridade aos que estão até 140.000 € de anúncio.
 
 ## Onde
 1. **Porsche Finder (DE, AT, BE, NL, LU, FR, IT, ES, PL, CZ, SK, SI, HR, SE):** usar o filtro público de equipamento "Porsche Active Ride", se a pesquisa o tiver. Se não tiver, abrir as fichas das versões GTS/Turbo/Turbo S e procurar "Porsche Active Ride" na lista de equipamento.
