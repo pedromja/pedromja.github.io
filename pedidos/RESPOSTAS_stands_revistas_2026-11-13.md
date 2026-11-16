@@ -1,4 +1,6 @@
-# Respostas aos stands · versão revista pelo Claude Code (13/11/2026)
+# Respostas aos stands · versão revista pelo Claude Code (13/11/2026, ajustada a 16/11)
+
+**16/11:** Luxemburgo passa a responder à mensagem de 13/11; Hannover responde à pergunta de hoje (ainda a analisar, sem depósito) e pede que se mantenham os 115.490 € da minuta, porque o anúncio subiu para 120.990 €.
 
 Base: os 7 rascunhos do Grok Bot de 13/11. Nada foi enviado. É o Pedro que envia, se concordar. Os VIN foram tirados deste ficheiro porque a pasta é pública. Os stands já os conhecem.
 
@@ -24,7 +26,7 @@ Assunto: `Re: Demande Porsche Taycan 4S Black Edition, référence M73KGO / Enqu
 ```
 Dear Sir or Madam,
 
-Thank you for your message today and for the detailed answers of 9 November. Yes, I received your email, and I am still interested in the Taycan 4S Black Edition (vehicle no. M73KGO). This is not yet a purchase commitment.
+Thank you for your message of 13 November and for the detailed answers of 9 November. Yes, I received your email, and I am still interested in the Taycan 4S Black Edition (vehicle no. M73KGO). This is not yet a purchase commitment.
 
 I have a few remaining questions:
 
@@ -88,7 +90,9 @@ Assunto: `Re: AW: Porsche Hannover - Taycan 4`
 ```
 Dear Sir or Madam,
 
-Thank you for the example contract dated 09/11/2026 and for your replies.
+Thank you for your message and for the example contract dated 09/11/2026. I am still analysing the offers and I am not confirming the purchase or paying a deposit at this stage.
+
+I noticed that the online listing now shows 120,990 €, while the example contract states 115,490 €. Could you please confirm that the price of 115,490 € remains valid for me?
 
 From the example contract I have noted, without accepting or signing it: purchase price 115,490.00 € incl. 19% VAT; export plates for 30 days 390 €; deposit 10,000 €; remaining amount by transfer before collection; indicative handover date 04/12/2026; new-car warranty until 13/01/2028; 16,900 km.
 
