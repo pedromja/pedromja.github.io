@@ -2,7 +2,7 @@
 
 **Substitui** o pedido `PEDIDO_GROK_BOT_rascunhos_negociacao_2026-11-16.md`. Os textos continuam nos mesmos ficheiros (indicados abaixo).
 
-Regras de sempre: não aceitar negócio, não reservar, não pagar nem assinar; não enviar passaporte, morada nem telefone do Pedro; não pedir rodas de inverno; nota do Google Translate e inglês por baixo em todos os emails que não sejam em inglês; validade pedida até **5 de dezembro de 2026**; entrega até **10 de dezembro de 2026**.
+Regras de sempre: não aceitar negócio, não reservar, não pagar nem assinar; não enviar passaporte nem telefone do Pedro (**a morada postal pode ser dada a partir de 16/11, por decisão do Pedro**, só quando o stand a pede para a oferta, e nunca guardada em ficheiros, zips ou repositórios); não pedir rodas de inverno; nota do Google Translate e inglês por baixo em todos os emails que não sejam em inglês; validade pedida até **5 de dezembro de 2026**; entrega até **10 de dezembro de 2026**.
 
 ## Grupo 1 · stands que já responderam → mesmo email, texto adaptado, RASCUNHO para o Pedro rever
 Usar o **endereço da conversa anterior** e responder **dentro do mesmo fio** (Re:). Como o texto foi adaptado às últimas informações, fica em **rascunho**: o Pedro lê e envia.

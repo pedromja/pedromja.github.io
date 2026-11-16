@@ -63,5 +63,50 @@ Pedro Andrade
 ```
 
 ## 5. Luxemburgo M73KGO e Lorient 7N4737 (pedem morada para a oferta oficial)
-Decisão do Pedro. A oferta oficial só sai com uma morada. Dar a morada não compromete a compra; o Grok não a envia por regra, por isso, se o Pedro quiser, responde ele próprio a essas duas conversas com a morada.
-- Luxemburgo: o SoH não pode ser feito por agora («intervenção global nos sistemas de diagnóstico da Porsche»). Pedir que o façam antes da entrega e que fique escrito na oferta.
+**Autorizado pelo Pedro a 16/11: podem dar a morada postal.** O telefone continua de fora (Lorient também o pediu).
+
+Como fazer: o Grok pede ao Pedro a morada (ou usa a que o Pedro lhe der), coloca-a no lugar de `[MORADA]` e cria os dois rascunhos na conversa de cada stand. **A morada não fica em nenhum ficheiro, zip ou repositório**, só nos emails.
+
+### 5a. Porsche Zenter Lëtzebuerg · 4S Black Edition M73KGO
+```
+Dear Sir or Madam,
+
+Thank you for your reply, for the photos of the PCM and for the warranty information.
+
+For the official offer, my address is:
+[MORADA]
+
+Could you please send me a written offer, valid until 5 December 2026, with the price of 109,500 € including export plates (or 108,000 € without plates if the car is collected by truck)?
+
+Regarding the battery health check: I understand it cannot be done at the moment. Could you please include in the offer that the SoH check will be carried out before handover and the report sent to me?
+
+I would prefer to continue by e-mail.
+
+Kind regards,
+Pedro Andrade
+```
+
+### 5b. Centre Porsche Lorient · 4 7N4737 (francês e inglês)
+```
+Bonjour,
+
+Merci pour votre réponse. Comme indiqué, l'achat serait à titre particulier. Pour l'offre, voici mon adresse postale :
+[MORADA]
+
+Je préfère poursuivre par e-mail. Pourriez-vous m'envoyer une offre écrite, valable jusqu'au 5 décembre 2026, avec le prix final, le contrôle SoH annoncé, le certificat de conformité (COC) et les dates exactes de la garantie constructeur et de la Porsche Approved ?
+
+Cordialement,
+Pedro Andrade
+
+— English —
+
+Hello,
+
+Thank you for your reply. As mentioned, the purchase would be as a private individual. For the offer, my postal address is:
+[MORADA]
+
+I would prefer to continue by e-mail. Could you please send me a written offer, valid until 5 December 2026, with the final price, the announced SoH check, the certificate of conformity (COC) and the exact dates of the manufacturer's and Porsche Approved warranties?
+
+Kind regards,
+Pedro Andrade
+```
