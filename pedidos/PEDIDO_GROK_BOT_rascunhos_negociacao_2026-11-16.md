@@ -1,5 +1,7 @@
 # Pedido ao Grok Bot: rascunhos no Gmail para a negociação (16/11/2026)
 
+> **Substituído** a 16/11 pela `ORDEM_GROK_BOT_negociacao_2026-11-16.md`. Os textos das secções D continuam a valer.
+
 **Regra principal: o Grok cria RASCUNHOS no Gmail do Pedro e não envia nada.** Quem envia é o Pedro, depois de ler cada rascunho. Não aceitar, reservar, pagar nem assinar. Não enviar passaporte, morada nem número de telefone. Não pedir rodas de inverno.
 
 ## Passo 1 · o Pedro valida o email de cada stand
