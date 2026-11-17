@@ -35,3 +35,9 @@ Os preços estão a descer mais vezes: 57 descidas entre 12 e 17/11, contra 34 n
 - **Siegen 4560KQ, Ingelmunster L6683Z, Bonn 20P2V5/7N04NW, Alicante QVPW4Z**: trocar «final price» por «best current price». No texto em espanhol de Alicante, trocar «el precio final» por «su mejor precio actual».
 - **Hannover 454OWZ**: acrescentar antes de «Since we are in contact»: «Could you please confirm in writing, before any deposit, the result of the PIWIS check (whether the fault code is passive and has no effect on the warranty), and that both repairs will be completed at your cost before handover?». Não mencionar prazo de decisão. Nos dois carros alternativos manter «best price».
 - **Pforzheim DNDG5P**: sem alteração. Os 102.800 € são a oferta do próprio stand; só se pergunta se incluem IVA.
+
+## Novo contacto enviado pelo Pedro (17/11)
+- **Astoria Automobile, Kaarst** (stand independente): Taycan 4 Black Edition, n.º interno 5558, 05/2026, 23.123 km, 98.990 € com IVA de 19 %. Anúncio: https://astoria-automobile.de/fahrzeuge/794401
+- O Pedro enviou o primeiro email a partir do Gmail. Acompanhar o fio como os outros: resumo da resposta e rascunho para o Pedro rever, com o melhor preço atual.
+- **Não pedir fatura sem IVA**: o carro conta como usado a 10/12.
+- Na resposta, verificar o SoH, o VIN, o uso anterior (23.000 km em 6 meses) e o histórico de assistência.
