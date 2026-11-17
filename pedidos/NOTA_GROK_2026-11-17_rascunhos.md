@@ -21,3 +21,17 @@ O Pedro envia só depois do seu «sim».
 | Lorient | 7N4737 | **Em pausa**: sem LCA (7Y8) e Caro. Não enviar a morada sem nova ordem do Pedro |
 
 Landau V4X3Z9 e Ulm EXGVO6 estão registados como primeiro contacto enviado a 17/11.
+
+## Nova regra de redação (Pedro, 17/11): pedir sempre o melhor preço atual
+Os preços estão a descer mais vezes: 57 descidas entre 12 e 17/11, contra 34 na semana anterior.
+- Nunca escrever nós um preço para o stand confirmar e nunca dar prazo de decisão. Pedir sempre **«your best current price»**.
+- Manter o pedido de **validade até 5/12**: obriga o stand, não o Pedro.
+- Vale para todos os emails seguintes e já para estes rascunhos, antes de o Pedro os enviar.
+
+### Alterações aos rascunhos por enviar
+- **Sopot 08W58N**: substituir «whether the price of 549,000 PLN can be confirmed in a written offer valid until 5 December 2026» por «your best current price in a written offer valid until 5 December 2026».
+- **Luxemburgo M73KGO**: substituir «with the price of 109,500 € including export plates (or 108,000 € without plates if the car is collected by truck)» por «with your best current price, with and without export plates».
+- **Rotterdam 9094KD**: substituir «confirming this price for a private buyer from Portugal» por «with your best current price for a private buyer from Portugal».
+- **Siegen 4560KQ, Ingelmunster L6683Z, Bonn 20P2V5/7N04NW, Alicante QVPW4Z**: trocar «final price» por «best current price». No texto em espanhol de Alicante, trocar «el precio final» por «su mejor precio actual».
+- **Hannover 454OWZ**: acrescentar antes de «Since we are in contact»: «Could you please confirm in writing, before any deposit, the result of the PIWIS check (whether the fault code is passive and has no effect on the warranty), and that both repairs will be completed at your cost before handover?». Não mencionar prazo de decisão. Nos dois carros alternativos manter «best price».
+- **Pforzheim DNDG5P**: sem alteração. Os 102.800 € são a oferta do próprio stand; só se pergunta se incluem IVA.
